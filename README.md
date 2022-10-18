@@ -1,1 +1,1 @@
-# Primenumber
+# PrimeNumberProject
